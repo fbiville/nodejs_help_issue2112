@@ -1,0 +1,16 @@
+{
+  "name": "pipeline-event-not-triggered",
+  "version": "1.0.0",
+  "description": "Example when calling end on a Writable stream does not fire the 'finish' event",
+  "main": "index.js",
+  "author": "Florent Biville <fbiville@pivotal.io>",
+  "license": "Apache-2.0",
+  "private": false,
+  "scripts": {
+    "test": "yarn run jasmine",
+    "jasmine": "jasmine"
+  },
+  "devDependencies": {
+    "jasmine": "^3.4.0"
+  }
+}
