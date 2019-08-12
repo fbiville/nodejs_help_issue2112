@@ -10,5 +10,7 @@
  $ yarn test
 ```
 
-Understand how and why this happens?
-Please explain [here](https://github.com/nodejs/help/issues/2112).
+~Understand how and why this happens?~
+~Please explain [here](https://github.com/nodejs/help/issues/2112).~
+Problem solved: see the [`solution`](https://github.com/fbiville/nodejs_help_issue2112/tree/solution) branch.
+
