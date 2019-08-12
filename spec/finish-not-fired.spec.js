@@ -63,6 +63,7 @@ class Pipeline extends Writable {
 
     _write(chunk, _, callback) {
         this.inputStreams[chunk['index']].write(chunk['data']);
+        callback(null);
     }
 }
 
